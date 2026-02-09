@@ -57,11 +57,6 @@ Press Enter to close
 | Oppo Reno 4 Lite   | CPH2125        | 曦力P95           | MT6779            | 完全支持                                                      |
 | Oppo Reno 5 Lite   | CPH2205        | 曦力P95           | MT6779            | 完全支持                                                      |
 
-#### 4pda论坛提供现成的preloader修改文件
-#### 存在DAA问题并不代表设备不支持解锁，尤其是未测试auth_sv5.auth认证文件的机型。对于OPPO设备而言，这类问题通常只是因难以找到可用的DA文件导致，建议尝试操作。
-#### 若你通过mtkclient工具和本补丁成功解锁了任意OPPO设备的Bootloader，欢迎提交issue反馈，告知该方法支持的新机型，若能提供原厂preloader文件和修改后的文件更佳；若该方法未生效，也可进行反馈。你也可以通过电报与我联系。
----
+
 ## 协议说明
 本项目基于AGPL-3.0协议授权，详细条款请参阅[LICENSE](LICENSE)文件。
-
-内容由 AI 生成
