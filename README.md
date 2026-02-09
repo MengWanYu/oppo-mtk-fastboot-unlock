@@ -39,7 +39,7 @@ Press Enter to close
 俄罗斯4pda论坛的用户Max_Goblin发布了超详细的[操作教程](https://4pda.to/forum/index.php?showtopic=1059838&view=findpost&p=136154776)，内容包含Windows系统下mtkclient的完整安装步骤、备份的创建与恢复、图形界面的详细使用方法，以及手动制作preloader补丁的操作指引。
 ---
 ## 支持设备信息
-| 机型               | 设备代码       | 处理器            | 处理器ID          | 支持状态                                                      |
+| 机型               | 设备代码       | 处理器            | 处理器ID          | 支持状态（原仓库使用的mtkcilent，建议使用刷机匣）                                                      |
 |--------------------|----------------|-------------------|-------------------|---------------------------------------------------------------|
 | Oppo A17           | CPH2477        | 曦力G35           | MT6765            | 完全支持                                                      |
 | Oppo A17K          | CPH2471        | 曦力G35           | MT6765            | 完全支持                                                      |
@@ -47,8 +47,8 @@ Press Enter to close
 | Oppo A54 4G        | CPH2239        | 曦力G35           | MT6765            | 图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
 | Oppo A55 4G        | CPH2325        | 曦力G35           | MT6765            | 完全支持                                                      |
 | Oppo A56 5G        | PFVM110        | 天玑700           | MT6833            | 完全支持                                                      |
-| Oppo A58 4G        | CPH2577        | 曦力G85           | MT6768/MT6769     | （刷机匣资源包可刷）图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
-| Oppo A58x          | PHJ110         | 天玑700           | MT6833            | 图形界面及命令行存在DAA问题，已测试auth_sv5.auth认证文件       |
+| Oppo A58 4G        | CPH2577        | 曦力G85           | MT6768/MT6769     | 图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
+| Oppo A58x/A58 5G          | PHJ110         | 天玑700           | MT6833            | 封da前刷机匣使用MT6833_Preloader资源包测试通过       |
 | Oppo A73 5G        | CPH2161        | 天玑720           | MT6853            | 支持图形界面，无图形界面使用需搭配auth_sv5.auth认证文件        |
 | Oppo Reno 10 5g    | CPH2531        | 天玑7050          | MT6877V           | 图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
 | Oppo Reno 11F 5g   | CPH2603        | 天玑7050          | MT6877V           | 图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
@@ -57,4 +57,4 @@ Press Enter to close
 
 
 ## 协议说明
-本项目基于AGPL-3.0协议授权，详细条款请参阅[LICENSE](LICENSE)文件。
+oppo在2025年8月更新后加入新一轮da补丁，之前的授权将失效，想要测试此方案请不要更新系统，如果已经更新，请尝试降级，等到da补丁解除后再进行尝试
