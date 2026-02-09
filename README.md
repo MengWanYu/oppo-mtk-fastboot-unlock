@@ -47,7 +47,7 @@ Press Enter to close
 | Oppo A54 4G        | CPH2239        | 曦力G35           | MT6765            | 图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
 | Oppo A55 4G        | CPH2325        | 曦力G35           | MT6765            | 完全支持                                                      |
 | Oppo A56 5G        | PFVM110        | 天玑700           | MT6833            | 完全支持                                                      |
-| Oppo A58 4G        | CPH2577        | 曦力G85           | MT6768/MT6769     | 图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
+| Oppo A58 4G        | CPH2577        | 曦力G85           | MT6768/MT6769     | （刷机匣资源包可刷）图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
 | Oppo A58x          | PHJ110         | 天玑700           | MT6833            | 图形界面及命令行存在DAA问题，已测试auth_sv5.auth认证文件       |
 | Oppo A73 5G        | CPH2161        | 天玑720           | MT6853            | 支持图形界面，无图形界面使用需搭配auth_sv5.auth认证文件        |
 | Oppo Reno 10 5g    | CPH2531        | 天玑7050          | MT6877V           | 图形界面及命令行存在DAA问题，未测试auth_sv5.auth认证文件       |
