@@ -1,6 +1,4 @@
-用户：
-需要
-豆包：
+
 # 解锁Fastboot——联发科版OPPO通用Bootloader解锁教程
 本仓库中的脚本可基于原厂**preloader（预加载器）**制作修改版文件，将其中的fastboot锁定标识修改为解锁状态。
 ---
