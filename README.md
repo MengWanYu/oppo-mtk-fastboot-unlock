@@ -1,5 +1,6 @@
 
 # 解锁Fastboot——联发科版OPPO通用Bootloader解锁教程
+fork自https://github.com/Shocked-Cat/oppo-mtk-fastboot-unlock
 本仓库中的脚本可基于原厂**preloader（预加载器）**制作修改版文件，将其中的fastboot锁定标识修改为解锁状态。
 ---
 ## 操作步骤
@@ -56,5 +57,5 @@ Press Enter to close
 | Oppo Reno 5 Lite   | CPH2205        | 曦力P95           | MT6779            | 完全支持                                                      |
 
 
-## 协议说明
+## 说明
 oppo在2025年8月更新后加入新一轮da补丁，之前的授权将失效，想要测试此方案请不要更新系统，如果已经更新，请尝试降级，等到da补丁解除后再进行尝试
