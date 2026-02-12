@@ -8,7 +8,7 @@
 
 更新系统会替换掉原来的preloader，你的设备很可能将崩溃至preloader vcom端口，甚至更糟：没有任何端口和反应！
 
-💬有关于preloader刷写的讨论在[酷安帖子](https://www.coolapk.com/feed/69780533?s=YTAyMmFhNzcxMGFhOGJlZzY5OGQzNzQwega1602)中
+💬有关于preloader刷写的讨论在[acu211的帖子](https://www.coolapk.com/feed/69780533?s=YTAyMmFhNzcxMGFhOGJlZzY5OGQzNzQwega1602)中
 
 🔹刷写preloader应避免刷写*preloader_raw*分区，否则会导致设备*无法启动*
 
@@ -68,16 +68,16 @@ Fastboot锁定状态：0x22 -> 00
 | Oppo A55 4G     | CPH2325  | 联发科 Helio G35     | MT6765      | 完全支持                                                      |
 | Oppo A56 5G     | PFVM110  | 联发科 天玑700 | MT6833      | 完全支持                                                      |
 | Oppo A58 4G     | CPH2577  | 联发科 Helio G85     | MT6768/MT6769 | DAA图形界面及命令行存在问题，刷机匣资源包已支持              |
-| Oppo A58x       | PHJ110   | 联发科 天玑700 | MT6833      | DAA图形界面及命令行存在问题，刷机匣资源包已支持              |
+| Oppo A58x&A58 5G       | PHJ110   | 联发科 天玑700 | MT6833      | 刷机匣资源包已支持,成功帖见[檬皖鱼的6833成功帖](https://www.coolapk.com/feed/70194779?s=YjgwNmY1YmYxMGFhOGJlZzY5OGQzZDcwega1602)              |
 | Oppo A73 5G     | CPH2161  | 联发科 天玑720 | MT6853      | 支持图形界面，刷机匣资源包已支持             |
 | Oppo Reno 10 5g | CPH2531  | 联发科 天玑7050| MT6877V     | DAA图形界面及命令行存在问题，刷机匣资源包已支持              |
 | Oppo Reno 11F 5g| CPH2603  | 联发科 天玑7050| MT6877V     | DAA图形界面及命令行存在问题，刷机匣资源包已支持              |
 | Oppo Reno 4 Lite| CPH2125  | 联发科 Helio P95     | MT6779      | 完全支持                                                      |
 | Oppo Reno 5 Lite| CPH2205  | 联发科 Helio P95     | MT6779      | 完全支持                                                      |
-| realme GT Neo   | RMX3031  | 联发科 天玑1200      | MT6893      | 已通过测试                                                    |
-| OPPO Reno6 Pro  | PEPM00   | 联发科 天玑1200      | MT6893      | 已通过测试                                                    |
-| OPPO K10        | PGJM10   | 联发科 天玑8000-MAX  | MT6895      | 已通过测试              |
-| OPPO Find X6    | PGFM10   | 联发科 天玑9200      | MT6985      | 已通过测试                                                    |
+| realme GT Neo   | RMX3031  | 联发科 天玑1200      | MT6893      | 已通过测试，见[acu211的1200测试成功贴](https://www.coolapk.com/feed/70137779?s=ZGQyODg2MmQxMGFhOGJlZzY5OGQzZDQ1ega1602)                                                    |
+| OPPO Reno6 Pro  | PEPM00   | 联发科 天玑1200      | MT6893      | 已通过测试，见[acu211的1200测试成功贴](https://www.coolapk.com/feed/70137779?s=ZGQyODg2MmQxMGFhOGJlZzY5OGQzZDQ1ega1602)                                                    |
+| OPPO K10&Reno10Pro        | PGJM10&PHV110   | 联发科 天玑8000-MAX  | MT6895      | 已通过测试，见[acu211的8000系测试成功贴](https://www.coolapk.com/feed/69780533?s=MjZiNDEzZTkxMGFhOGJlZzY5OGQzYzI4ega1602)              |
+| OPPO Find X6    | PGFM10   | 联发科 天玑9200      | MT6985      | 已通过测试，见[acu211的9200测试成功贴](https://www.coolapk.com/feed/69668249?s=NjRhODIxMmMxMGFhOGJlZzY5OGQzYzJhega1602)                                               |
 
 4pda论坛提供现成的预加载器文件；DAA相关问题并不代表设备不支持解锁，尤其是在刷机匣资源包已支持的情况下。
 *刷机匣中oppo的mtk授权资源包，目前已经支持从天玑700到天玑1300等芯片授权，可以通过资源包尝试进行授权
