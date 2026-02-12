@@ -4,7 +4,8 @@
 
 ⚠️您必须确保您拥有救砖的能力，否则不建议您使用此方案来操作，修改preloader是非常危险的行为！
 
-🚫修改preloader后禁止*ota更新*
+🚫修改preloader后禁止*ota更新*🚫
+
 更新系统会替换掉原来的preloader，你的设备很可能将崩溃至preloader vcom端口，甚至更糟：没有任何端口和反应！
 
 💬有关于preloader刷写的讨论在[酷安帖子](https://www.coolapk.com/feed/69780533?s=YTAyMmFhNzcxMGFhOGJlZzY5OGQzNzQwega1602)中
