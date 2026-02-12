@@ -2,10 +2,13 @@
 ## 概述
 本仓库中的脚本可基于原厂preloader进行修补，将其中的fastboot锁定标识修改为解锁状态。
 
-##⚠️您必须确保您拥有救砖的能力，否则不建议您使用此方案操作，修改preloader是非常危险的行为！
-##🚫修改preloader后禁止*ota更新*
-##更新系统会替换掉原来的preloader，你的设备很可能将崩溃至preloader vcom端口，甚至更糟：没有任何端口和反应！
-##💬有关于preloader刷写的讨论在[酷安帖子](https://www.coolapk.com/feed/69780533?s=YTAyMmFhNzcxMGFhOGJlZzY5OGQzNzQwega1602)中，##刷写preloader应避免刷写*preloader_raw*分区，否则会导致设备*无法启动*
+⚠️您必须确保您拥有救砖的能力，否则不建议您使用此方案操作，修改preloader是非常危险的行为！
+
+🚫修改preloader后禁止*ota更新*
+更新系统会替换掉原来的preloader，你的设备很可能将崩溃至preloader vcom端口，甚至更糟：没有任何端口和反应！
+
+💬有关于preloader刷写的讨论在[酷安帖子](https://www.coolapk.com/feed/69780533?s=YTAyMmFhNzcxMGFhOGJlZzY5OGQzNzQwega1602)中
+🔹刷写preloader应避免刷写*preloader_raw*分区，否则会导致设备*无法启动*
 
 ## 操作步骤
 1. 下载并安装[Python](https://www.python.org/downloads) **3.4+** 版本
