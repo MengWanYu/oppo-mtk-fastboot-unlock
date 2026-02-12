@@ -8,7 +8,7 @@
 
 🔘对于出厂***CorlorOS12.1+***机型，例如**OPPOA58x&A58 5G**，在升级coloros13最新版之后降级至coloros12依然没有解除da拉黑，可能存在***熔断机制***
 
-❓对于出厂***CorlorOS7***的设备，这个熔断可能不会生效，OPPO A72等机型在最新版本也有报告称引入da黑名单，但仍可通过降级至***ColorOS11***来解除。     *----来自[jsbsbxjxh66的帖子](https://www.coolapk.com/feed/69511884?s=MzBkZWJkZjQxMGFhOGJlZzY5OGQ0MWM5ega1602)*
+❓对于出厂***CorlorOS7+***的设备，这个熔断可能不会生效，OPPO A72等机型在最新版本也有报告称引入da黑名单，但仍可通过降级至***ColorOS11***来解除。     *----来自[jsbsbxjxh66的帖子](https://www.coolapk.com/feed/69511884?s=MzBkZWJkZjQxMGFhOGJlZzY5OGQ0MWM5ega1602)*
 
 🚫修改preloader后禁止*ota更新*🚫
 
