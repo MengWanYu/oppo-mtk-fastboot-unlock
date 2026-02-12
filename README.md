@@ -106,4 +106,4 @@ Fastboot锁定状态：0x22 -> 00
 本项目采用AGPL-3.0许可证进行授权，详细的授权条款可查阅[LICENSE](LICENSE)文件。
 
 ## 其他说明
-中文版README翻译贡献：[酷安@檬皖鱼](https://www.coolapk.com/u/17475774)
+中文版README翻译贡献：[酷安@檬皖鱼](https://www.coolapk.com/u/17475774) Github：[@MengWanYu](https://github.com/MengWanYu)
